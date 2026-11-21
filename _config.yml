@@ -8,53 +8,42 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url : "https://try1koleksi.github.io"
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl : "/try1koleksi-csv"
 # location of code, the full url to your github repository
-source-code: https://github.com/try1koleksi-csv
+source-code : "https://github.com/try1koleksi"
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: try 1 koleksi CSV
+title : "Koleksi Uang DJB" 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Mata Ua
+tagline : "Mata Uang Kuno"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Uang Seri Wayang merupakan seri mata uang kertas terakhir yang dikeluarkan oleh Pemerintah Kolonial Belanda sebelum mereka menyerah tanpa syarat kepada militer Jepang pada tahun 1942. Ketika Jepang masuk, sisa-sisa uang ini ditarik dari peredaran, dilebur, atau dilarang digunakan, menjadikannya saksi bisu berakhirnya kekuasaan imperialisme Belanda di Indonesia.."
+description : "Uang Seri Wayang merupakan seri mata uang kertas terakhir yang dikeluarkan oleh Pemerintah Kolonial Belanda sebelum mereka menyerah tanpa syarat kepada militer Jepang pada tahun 1942. Ketika Jepang masuk, sisa-sisa uang ini ditarik dari peredaran, dilebur, atau dilarang digunakan, menjadikannya saksi bisu berakhirnya kekuasaan imperialisme Belanda di Indonesia.."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: Mata uang; uang seri wayang; uang kertas; Indoensia
+keywords : "Mata uang; uang seri wayang; uang kertas; Indoensia"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author : "kurator Museum Sulawesi Tengah"
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-try 1 Koleksi 
-# page generation settings [optional!]
-# [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
-
+metadata : "demo-metadata"
 ##########
 # ORGANIZATION SETTINGS
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
 organization-name: "Museum Sulawesi Tengah"
-organization-link: https://r.search.yahoo.com/_ylt=A2RTCTdwJwFrFQMAjZRXNyoA;_ylu=Y29sbwNhcC1zb3V0aGVhc3QtMQRwb3MDMQR2dGlkAwRzZWMDc3I-/RV=2/RE=1796447345/RO=10/RU=https%3a%2f%2fmuseumsulawesitengah.com%2f/RK=2/RS=J_XvliI1xJ4ehYkP.zX_CHnK9ak-
-# Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: 
-organization-logo-nav: 
+organization-link : "https://museum.sultengprov.go.id/"
+# Add logo ima
+ge links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 
 ##########
 # ROBOTS EXCLUDE
